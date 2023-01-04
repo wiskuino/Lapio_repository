@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
 lisättiin 1. rivi
-=======
 tämän pitäisi olla 2. rivi
->>>>>>> Stashed changes
