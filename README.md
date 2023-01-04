@@ -1,2 +1,2 @@
-# Lapio_teht-v-_repo
-Tietokone työkaluna harjoituskansio
+# Lapio_tehtava_repo
+Tietokone tyokaluna harjoituskansio
